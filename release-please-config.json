@@ -1,0 +1,13 @@
+{
+  "packages": {
+    ".": {
+      "draft": false,
+      "prerelease": false,
+      "bumpMinorPreMajor": false,
+      "bumpPatchForMinorPreMajor": false,
+      "changelogPath": "CHANGELOG.md",
+      "versioning": "default",
+      "pull-request-title-pattern": "chore${scope}: release ${version}"
+    }
+  }
+}
