@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.0.0...testing-repo-v2.1.0) (2022-07-06)
+
+
+### Features
+
+* clone testing repo ([dedd53a](https://github.com/rjzhao1/testing-repo-1/commit/dedd53a3ec9fa25603c8ada9c964a214ee390d42))
+
 ## [2.0.0](https://github.com/rjzhao1/testing-repo/compare/testing-repo-v1.0.0...testing-repo-v2.0.0) (2022-07-06)
 
 
