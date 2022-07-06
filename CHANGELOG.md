@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.2.0...testing-repo-v2.3.0) (2022-07-06)
+
+
+### Features
+
+* test new title ([09e30b4](https://github.com/rjzhao1/testing-repo-1/commit/09e30b46605b3d891d6eba15465c75025adffcd7))
+
 ## [2.2.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.1.0...testing-repo-v2.2.0) (2022-07-06)
 
 
