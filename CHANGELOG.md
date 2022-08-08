@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.4.0...testing-repo-v2.5.0) (2022-08-08)
+
+
+### Features
+
+* change path ([2307121](https://github.com/rjzhao1/testing-repo-1/commit/2307121f5bbd8cee4111553b4c2fd7f3cc1bc848))
+
 ## [2.4.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.3.0...testing-repo-v2.4.0) (2022-08-08)
 
 
