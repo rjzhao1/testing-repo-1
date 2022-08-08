@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.3.0...testing-repo-v2.4.0) (2022-08-08)
+
+
+### Features
+
+* add multiple changelog path ([70cc01d](https://github.com/rjzhao1/testing-repo-1/commit/70cc01dfeedc436d4edcffe0f695ae65fd7364bb))
+
 ## [2.3.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.2.0...testing-repo-v2.3.0) (2022-07-06)
 
 
