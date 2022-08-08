@@ -6,8 +6,7 @@
       "bumpMinorPreMajor": false,
       "bumpPatchForMinorPreMajor": false,
       "changelog-path": ["public/CHANGELOG.md", "CHANGELOG.md"],
-      "versioning": "default",
-      "pull-request-title-pattern": "release ${version} [${scope}]"
+      "versioning": "default"
     }
   }
 }
