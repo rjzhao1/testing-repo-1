@@ -5,7 +5,7 @@
       "prerelease": false,
       "bumpMinorPreMajor": false,
       "bumpPatchForMinorPreMajor": false,
-      "changelogPath": ["CHANGELOG.md", "public/CHANGELOG.md"],
+      "changelogPath": "public/CHANGELOG.md",
       "versioning": "default",
       "pull-request-title-pattern": "release ${version} [${scope}]"
     }
