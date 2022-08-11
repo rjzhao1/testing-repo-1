@@ -9,3 +9,5 @@ then
 else
     npx commitlint --edit $1
 fi
+
+cp CHANGELOG.md public/CHANGELOG.md
