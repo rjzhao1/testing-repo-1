@@ -13,7 +13,7 @@
 ### ⚠ BREAKING CHANGES
 
 * test different config for version
-* create breaking change
+* create breaking changes
 
 ### Features
 
