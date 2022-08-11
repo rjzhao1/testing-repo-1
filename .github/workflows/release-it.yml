@@ -12,11 +12,8 @@ jobs:
       #     release-type: node
       #     package-name: testing-repo
       #     command: manifest
-      - run: |
-          find . -type f -name "CHANGELOG.md" | while read fname; do
-          dirname=`dirname "$fname"`
-          foldername=`basename "$dirname"`
-          filename=`basename "$fname"`
-          newname=`echo "$dirname" | sed -e "s/ /_/g"`
-          cp "${dirname}/$filename" "./docs/_myfolder/${foldername}.md"
-        done
+    - name: copy file
+      uses: canastro/copy-file-action@master
+      with:
+        source: "CHANGELOG.md"
+        target: "public/CHANGELOG.md"
