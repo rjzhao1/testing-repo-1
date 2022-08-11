@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - add-multiple-changelogPath
 name: release-please
 jobs:
   release-please:
@@ -13,4 +13,10 @@ jobs:
       #     package-name: testing-repo
       #     command: manifest
       - run: |
-          ls
+          find . -type f -name "CHANGELOG.md" | while read fname; do
+          dirname=`dirname "$fname"`
+          foldername=`basename "$dirname"`
+          filename=`basename "$fname"`
+          newname=`echo "$dirname" | sed -e "s/ /_/g"`
+          cp "${dirname}/$filename" "./docs/_myfolder/${foldername}.md"
+        done
