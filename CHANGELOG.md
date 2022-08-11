@@ -1,5 +1,37 @@
 # Changelog
 
+## [2.8.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.7.0...testing-repo-v2.8.0) (2022-08-11)
+
+
+### Features
+
+* add husky actions ([f9833a4](https://github.com/rjzhao1/testing-repo-1/commit/f9833a46e1764391daf7d4b5039d1b3c7844fe36))
+* add husky actions ([b62c2b0](https://github.com/rjzhao1/testing-repo-1/commit/b62c2b009ffdc9cc4ecde88978cbfac80806b994))
+* add husky actions ([c7c31df](https://github.com/rjzhao1/testing-repo-1/commit/c7c31df416e4cdfdfaf784c3d1c88fa6ef6e9a6c))
+* add husky actions ([eb5bed1](https://github.com/rjzhao1/testing-repo-1/commit/eb5bed15c31dd0645e9d038636d8dde426ed1501))
+* add husky actions ([63666fa](https://github.com/rjzhao1/testing-repo-1/commit/63666fa7b398ad03248c2fb07ff186ff989bbc0a))
+* add husky actions ([1c58316](https://github.com/rjzhao1/testing-repo-1/commit/1c58316b2bc2ecf83b39b2667c1801155c61f23c))
+* add husky actions ([2f2efa1](https://github.com/rjzhao1/testing-repo-1/commit/2f2efa19fa64187e5f5abf86038fa210e3aedf5d))
+* add husky actions ([9465fc9](https://github.com/rjzhao1/testing-repo-1/commit/9465fc923068abe6ecdcec4af1a2258f476f538e))
+* add husky actions ([4c51646](https://github.com/rjzhao1/testing-repo-1/commit/4c51646f03d64dd24e5e46d28b22bb3ba103fb91))
+* add precommit hooks ([8afbe4e](https://github.com/rjzhao1/testing-repo-1/commit/8afbe4e192dffd82aeae06b3f253c03f1710b008))
+* create empty file ([e0843eb](https://github.com/rjzhao1/testing-repo-1/commit/e0843eb88be005cc1b49c5145df7b6dccb2a7623))
+* re add github action ([47c8627](https://github.com/rjzhao1/testing-repo-1/commit/47c86272667c26eedf37eada143f51e5511378a1))
+* remove Changlog file ([bbccd3f](https://github.com/rjzhao1/testing-repo-1/commit/bbccd3f9fb2d373a018757321c1b2ecf052d2549))
+* remove README ([47ec30a](https://github.com/rjzhao1/testing-repo-1/commit/47ec30a211e0f7d6566229ee8471be8ac009fabb))
+* remove README ([5acee56](https://github.com/rjzhao1/testing-repo-1/commit/5acee56ce4f67ba3b55011fda307903b096f6ee2))
+* remove README ([359c1b3](https://github.com/rjzhao1/testing-repo-1/commit/359c1b36afc15bbf76a7c2cb75343980120aff91))
+* test CHANGELOG name ([d1870ff](https://github.com/rjzhao1/testing-repo-1/commit/d1870ffe6b4587ea0f2a0d7e239ea3cbf062eb2b))
+* test CHANGELOG name ([c03eb6c](https://github.com/rjzhao1/testing-repo-1/commit/c03eb6cca9840a949d52bf5d06fc36e598f4693a))
+* update changelog ([cdd9f0d](https://github.com/rjzhao1/testing-repo-1/commit/cdd9f0d2867635d368231a2cb0d3ffc76ed49f58))
+* update changelog path ([b0a57e2](https://github.com/rjzhao1/testing-repo-1/commit/b0a57e27df0af160ae0603931efc8ecd5bdb5a20))
+* update changelog path ([bf8873c](https://github.com/rjzhao1/testing-repo-1/commit/bf8873c7928f03024959f1873bf9761abc66aba1))
+* update git push action ([50f3862](https://github.com/rjzhao1/testing-repo-1/commit/50f38622d2260a9684a00fd455ec833c1700d97a))
+* update git push action ([78d4359](https://github.com/rjzhao1/testing-repo-1/commit/78d43593905b4d87d129518f3dff3aeb378d4ace))
+* update git push action ([9b837ba](https://github.com/rjzhao1/testing-repo-1/commit/9b837ba2d3e914225b9410126bad9e3b9b8a0658))
+* update git push action ([71bc784](https://github.com/rjzhao1/testing-repo-1/commit/71bc7846a0eb1ad64e23fea61f30270fad7e9177))
+* update push ([49dbcfa](https://github.com/rjzhao1/testing-repo-1/commit/49dbcfafa3d6f16c3d9e00fdc637a0b974ee1a53))
+
 ## [2.7.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.6.0...testing-repo-v2.7.0) (2022-08-11)
 
 
