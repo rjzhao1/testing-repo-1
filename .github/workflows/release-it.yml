@@ -12,3 +12,5 @@ jobs:
           release-type: node
           package-name: testing-repo
           command: manifest
+      - run: |
+          cp "CHANGELOG.md" "public/CHANGELOG.md" 
