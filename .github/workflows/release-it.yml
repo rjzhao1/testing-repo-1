@@ -12,6 +12,7 @@ jobs:
       #     release-type: node
       #     package-name: testing-repo
       #     command: manifest
+    - uses: actions/checkout@master
     - name: Copy the Readmes
       run: |
         find . -type f -name "CHANGELOG.md" | while read fname; do
@@ -23,6 +24,8 @@ jobs:
         done
     - name: Commit files
       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
