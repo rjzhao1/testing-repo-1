@@ -8,26 +8,26 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      # - uses: google-github-actions/release-please-action@v3
-      #   with:
-      #     release-type: node
-      #     package-name: testing-repo
-      #     command: manifest
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node
+          package-name: testing-repo
+          command: manifest
   
-    - uses: actions/checkout@master
-    - name: Copy the CHANGELOG
-      run: |
-        find . -type f -name "CHANGELOG.md" | while read fname; do
-          touch public/CHANGELOG.md
-          cp "CHANGELOG.md" "public/CHANGELOG.md"
-        done
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -mm "Add changes"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: add-multiple-changelogPath
+    # - uses: actions/checkout@master
+    # - name: Copy the CHANGELOG
+    #   run: |
+    #     find . -type f -name "CHANGELOG.md" | while read fname; do
+    #       touch public/CHANGELOG.md
+    #       cp "CHANGELOG.md" "public/CHANGELOG.md"
+    #     done
+    # - name: Commit files
+    #   run: |
+    #     git config --local user.email "action@github.com"
+    #     git config --local user.name "GitHub Action"
+    #     git commit -mm "Add changes"
+    # - name: Push changes
+    #   uses: ad-m/github-push-action@master
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     branch: add-multiple-changelogPath
