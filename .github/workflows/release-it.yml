@@ -26,4 +26,4 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -am "Add changes"
-        git push add-multiple-changelogPath
+        git push origin add-multiple-changelogPath
