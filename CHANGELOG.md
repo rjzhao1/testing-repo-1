@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.7.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.6.0...testing-repo-v2.7.0) (2022-08-11)
+
+
+### Features
+
+* remove release title ([db5db37](https://github.com/rjzhao1/testing-repo-1/commit/db5db37bb583d543253c7fcfaa5f3a01d0a0bd17))
+* revert release-please-config ([32f1286](https://github.com/rjzhao1/testing-repo-1/commit/32f1286492a3b3d73a365d70f3f02b3e82c98fa9))
+* test multiple changelog path ([327fed6](https://github.com/rjzhao1/testing-repo-1/commit/327fed62acd93af5bf28d7cabd1ae061b0ebfb19))
+* update filename ([99f2b56](https://github.com/rjzhao1/testing-repo-1/commit/99f2b5602621b5a77a4bb30d9095807de0bdcfd2))
+
 ## [2.5.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.4.0...testing-repo-v2.5.0) (2022-08-08)
 
 
