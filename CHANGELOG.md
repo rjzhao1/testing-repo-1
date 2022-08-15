@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.9.0...testing-repo-v2.10.0) (2022-08-15)
+
+
+### Features
+
+* update changelog-path config ([4885060](https://github.com/rjzhao1/testing-repo-1/commit/4885060dcd37cee78ec520fc37c8897865e94f4b))
+
 ## [2.9.0](https://github.com/rjzhao1/testing-repo-1/compare/testing-repo-v2.8.0...testing-repo-v2.9.0) (2022-08-15)
 
 
