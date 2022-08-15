@@ -8,7 +8,6 @@
       "changelog-path": "CHANGELOG.md",
       "versioning": "default",
       "pull-request-title-pattern": "chore${scope}: ${version}",
-      "default-branch": "add-multiple-changelogPath"
     }
   }
 }

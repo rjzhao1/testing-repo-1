@@ -13,6 +13,8 @@ jobs:
           release-type: node
           package-name: testing-repo
           command: manifest
+          default-branch: add-multiple-changelogPath
+
   
 #     - uses: actions/checkout@master
 #     - name: Copy the CHANGELOG
